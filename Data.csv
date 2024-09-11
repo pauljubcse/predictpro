@@ -1,0 +1,193 @@
+,Name,Position,Age,Height,Weight,Club,Nation,Non-Penalty Goals,npxG: Non-Penalty xG,Shots Total,Assists,xAG: Exp. Assisted Goals,npxG + xAG,Shot-Creating Actions,Passes Attempted,Pass Completion %,Progressive Passes,Progressive Carries,Successful Take-Ons,Touches (Att Pen),Progressive Passes Rec,Tackles,Interceptions,Blocks,Clearances,Aerials Won,Market Value in M Euros
+0,Manuel Akanji,Centre Back,29,187cm,84kg,Manchester City,Switzerland,90,87,58,28,61,85,98,95,98,95,98,27,70,95,48,8,9,3,3,38.894976
+1,David Alaba,Centre Back,32,180cm,72kg,Real Madrid,Austria,19,94,99,94,93,99,83,86,82,41,48,27,86,93,10,54,1,7,4,17.286656
+2,Joachim Andersen,Centre Back,28,190cm,74kg,Fulham,Denmark,40,51,59,94,98,87,70,57,7,44,31,72,71,54,47,47,5,92,60,30.251648
+3,Ronald Araújo,Centre Back,25,188cm,78kg,Barcelona,Uruguay,50,95,95,90,86,98,75,83,67,79,68,82,93,49,38,9,39,14,72,60
+4,Alessandro Bastoni,Centre Back,25,190cm,83kg,Internazionale,Italy,46,61,56,96,99,96,99,90,51,89,99,87,85,99,48,30,15,1,21,60
+5,Andreas Christensen,Centre Back,28,188cm,73kg,Barcelona,Denmark,91,77,65,93,88,88,83,82,98,84,88,47,61,58,43,36,22,1,70,0
+6,Danilo,Centre Back,33,184cm,77kg,Juventus,Brazil,19,48,57,72,68,52,95,79,51,89,60,55,28,87,94,73,56,34,12,8.643328
+7,Eric Dier,Centre Back,30,188cm,87kg,Bayern Munich,England,19,61,70,28,12,38,51,93,88,46,52,15,54,19,10,27,70,49,60,10.3719936
+8,Ibrahima Konaté,Centre Back,25,193cm,83kg,Liverpool,France,19,44,61,28,52,39,80,95,70,96,91,86,40,26,87,67,42,21,98,
+9,Robin Le Normand,Centre Back,27,187cm,83kg,Atlético Madrid,Spain,69,57,38,28,15,36,15,65,75,55,62,9,36,4,34,36,7,34,91,34.573312
+10,Matthijs de Ligt,Centre Back,25,189cm,88kg,Manchester United,Netherlands,86,89,91,80,68,90,51,86,96,89,67,30,80,56,20,51,22,41,65,56.181632
+11,Victor Lindelöf,Centre Back,30,187cm,82kg,Manchester United,Sweden,71,62,28,87,48,42,84,63,70,38,88,19,59,92,7,21,43,17,26,12.964992
+12,Harry Maguire,Centre Back,31,188cm,78kg,Manchester United,England,93,95,95,93,90,98,81,63,33,64,79,13,96,17,25,82,90,66,96,15.5579904
+13,Marquinhos,Centre Back,30,183cm,74kg,Paris Saint-Germain,Brazil,19,36,14,97,83,62,52,98,96,97,80,11,23,44,47,42,73,22,30,43.21664
+14,Lisandro Martínez,Centre Back,-1,178cm,77kg,Manchester United,Argentina,19,43,1,98,3,33,73,65,97,35,37,64,3,1,62,66,63,21,1,43.21664
+15,Konstantinos Mavropanos,Centre Back,-1,191cm,78kg,West Ham United,Greece,49,77,80,28,18,56,6,18,22,38,60,62,74,21,35,86,60,64,66,0
+16,Kim Min-jae,Centre Back,-1,188cm,78kg,Bayern Munich,Korea Republic,50,26,30,67,41,22,71,99,95,86,61,33,41,49,63,99,77,28,88,38.894976
+17,Benjamin Pavard,Centre Back,-1,182cm,64kg,Internazionale,France,19,24,66,97,91,65,89,83,81,79,89,34,91,99,62,91,49,17,47,43.21664
+18,Cristian Romero,Centre Back,-1,185cm,82kg,Tottenham Hotspur,Argentina,94,96,87,28,50,91,84,96,92,93,81,47,75,58,90,69,56,26,85,56.181632
+19,Antonio Rüdiger,Centre Back,-1,191cm,84kg,Real Madrid,Germany,38,73,78,80,91,88,49,62,84,40,21,22,41,3,7,1,32,14,20,21.60832
+20,William Saliba,Centre Back,-1,193cm,76kg,Arsenal,France,58,47,11,28,7,23,27,87,91,57,28,65,5,27,44,14,6,2,45,69.146624
+21,Alex Sandro,Centre Back,-1,180cm,78kg,Flamengo,Brazil,99,77,72,28,99,99,99,71,55,74,95,94,66,93,76,93,93,16,30,1.7286656
+22,Giorgio Scalvini,Centre Back,-1,194cm,76kg,Atalanta,Italy,72,70,67,95,73,69,92,49,14,76,85,89,89,93,89,99,44,6,79,38.894976
+23,Fabian Schär,Centre Back,-1,186cm,84kg,Newcastle United,Switzerland,96,83,98,60,49,72,86,59,27,70,75,83,76,82,27,50,71,56,47,0
+24,Nico Schlotterbeck,Centre Back,-1,191cm,84kg,Dortmund,Germany,62,88,86,91,89,93,94,92,67,91,97,67,77,72,96,70,87,27,25,34.573312
+25,Thiago Silva,Centre Back,-1,183cm,78kg,Fluminense,Brazil,91,21,85,30,94,72,64,50,97,15,1,4,52,3,20,18,19,83,8,0.8643328
+26,Jonathan Tah,Centre Back,-1,193cm,97kg,Leverkusen,Germany,66,67,88,57,31,47,62,88,99,83,31,46,89,41,1,19,4,18,60,0
+27,Dayot Upamecano,Centre Back,-1,188cm,78kg,Bayern Munich,France,57,87,72,28,55,76,85,98,94,98,93,73,57,69,89,44,8,8,68,0
+28,Virgil van Dijk,Centre Back,-1,193cm,87kg,Liverpool,Netherlands,65,84,99,82,83,89,97,94,91,90,70,24,98,33,21,34,43,50,97,25.929984
+29,Raphaël Varane,Centre Back,-1,194cm,83kg,Como,France,19,5,8,28,16,4,40,43,68,62,72,4,9,24,29,53,80,92,38,17.286656
+30,Micky van de Ven,Centre Back,-1,193cm,81kg,Tottenham Hotspur,Netherlands,92,22,10,73,37,19,19,84,98,83,56,89,15,61,76,18,16,10,17,47.538304
+31,Stefan de Vrij,Centre Back,-1,189cm,78kg,Internazionale,Netherlands,64,22,33,28,50,26,24,70,97,25,48,44,37,45,34,61,27,47,69,0
+32,Axel Witsel,Centre Back,-1,186cm,81kg,Atlético Madrid,Belgium,64,25,6,28,7,10,17,61,95,36,36,44,26,39,11,10,48,34,29,3.0251648
+33,Kurt Zouma,Centre Back,-1,190cm,92kg,Al Oruba,France,71,64,49,28,17,40,8,4,36,4,12,20,59,14,2,24,28,76,32,0
+34,Karim Adeyemi,Attacking Midfielder/Winger,-1,180cm,68kg,Dortmund,Germany,68,74,51,32,62,75,29,11,36,7,69,59,72,53,70,75,53,54,80,24.2013184
+35,Antony,Attacking Midfielder/Winger,-1,172cm,64kg,Manchester United,Brazil,8,50,66,10,33,35,53,62,74,68,38,69,38,66,99,94,99,80,16,21.60832
+36,Harvey Barnes,Attacking Midfielder/Winger,-1,174cm,68kg,Newcastle United,England,99,94,82,85,95,96,22,15,50,49,76,17,90,72,7,81,1,36,47,0
+37,Jarrod Bowen,Attacking Midfielder/Winger,-1,178cm,69kg,West Ham United,England,55,24,39,79,76,42,70,50,37,43,89,69,57,64,88,90,90,22,23,0
+38,Julian Brandt,Attacking Midfielder/Winger,-1,185cm,82kg,Dortmund,Germany,61,35,17,90,89,74,86,89,70,59,32,23,8,24,36,36,43,89,47,0
+39,Tom Cairney,Attacking Midfielder/Winger,-1,183cm,72kg,Fulham,Scotland,52,43,45,94,79,66,94,93,87,98,84,96,77,89,26,38,24,3,48,0
+40,Federico Chiesa,Attacking Midfielder/Winger,-1,175cm,69kg,Liverpool,Italy,32,4,77,35,94,50,99,82,43,84,97,82,64,92,71,57,71,1,1,30.251648
+41,Bruno Fernandes,Attacking Midfielder/Winger,-1,173cm,64kg,Manchester United,Portugal,39,37,68,69,89,73,92,96,32,97,23,8,24,12,83,84,85,97,59,60.503296
+42,Phil Foden,Attacking Midfielder/Winger,-1,169cm,69kg,Manchester City,England,99,91,95,73,77,90,72,92,97,83,36,41,79,73,11,47,48,60,28,0
+43,Alejandro Garnacho,Attacking Midfielder/Winger,-1,180cm,79kg,Manchester United,Argentina,62,85,93,48,42,79,54,19,47,6,95,53,98,76,15,88,49,56,13,38.894976
+44,Anthony Gordon,Attacking Midfielder/Winger,-1,173cm,62kg,Newcastle United,England,66,70,50,73,63,72,65,24,38,26,62,46,57,41,81,16,54,9,23,51.859968
+45,Jack Grealish,Attacking Midfielder/Winger,-1,175cm,68kg,Manchester City,England,44,47,43,37,80,67,89,87,97,70,98,44,95,97,24,46,61,29,20,51.859968
+46,Son Heung-min,Attacking Midfielder/Winger,-1,183cm,76kg,Tottenham Hotspur,Korea Republic,64,31,41,94,99,85,90,93,99,93,94,80,88,97,47,53,1,4,4,38.894976
+47,Isco,Attacking Midfielder/Winger,-1,177cm,73kg,Real Betis,Spain,58,69,58,78,74,78,93,95,70,98,60,91,22,14,68,53,21,16,68,6.9146624
+48,Brennan Johnson,Attacking Midfielder/Winger,-1,178cm,73kg,Tottenham Hotspur,Wales,46,97,47,92,93,97,16,21,23,27,68,25,92,92,65,38,92,47,33,41.4879744
+49,Diogo Jota,Attacking Midfielder/Winger,-1,178cm,69kg,Liverpool,Portugal,99,99,91,74,88,99,30,7,33,14,52,26,98,58,73,63,17,7,91,43.21664
+50,Dejan Kulusevski,Attacking Midfielder/Winger,-1,186cm,74kg,Tottenham Hotspur,Sweden,60,24,32,44,78,50,71,63,59,73,78,61,95,93,84,68,45,5,27,47.538304
+51,Khvicha Kvaratskhelia,Attacking Midfielder/Winger,-1,183cm,73kg,Napoli,Georgia,71,82,98,54,68,84,86,57,77,32,97,95,83,70,57,54,17,28,42,69.146624
+52,Rafael Leão,Attacking Midfielder/Winger,-1,189cm,78kg,Milan,Portugal,84,94,78,86,94,96,78,39,40,51,90,84,88,83,4,35,5,53,84,77.789952
+53,James Maddison,Attacking Midfielder/Winger,-1,175cm,72kg,Tottenham Hotspur,England,10,62,55,95,73,70,99,98,82,99,19,32,64,29,69,59,24,58,22,60.503296
+54,Ruslan Malinovskyi,Attacking Midfielder/Winger,-1,181cm,78kg,Genoa,Ukraine,96,43,98,43,35,35,37,31,32,53,62,52,3,48,60,2,61,26,78,6.9146624
+55,Kaoru Mitoma,Attacking Midfielder/Winger,-1,178cm,71kg,Brighton & Hove Albion,Japan,22,51,25,59,46,43,22,43,56,52,95,78,89,86,7,38,59,84,61,38.894976
+56,Mason Mount,Attacking Midfielder/Winger,-1,175cm,63kg,Manchester United,England,31,45,27,1,2,10,22,59,90,48,6,9,57,23,99,96,17,44,86,30.251648
+57,Pedro Neto,Attacking Midfielder/Winger,-1,173cm,62kg,Chelsea,Portugal,21,33,40,99,65,45,67,64,49,16,94,75,67,65,1,17,1,9,24,47.538304
+58,Raphinha,Attacking Midfielder/Winger,-1,176cm,78kg,Barcelona,Brazil,95,99,99,99,97,99,84,71,37,41,56,48,78,79,35,82,65,59,46,0
+59,Richarlison,Attacking Midfielder/Winger,-1,179cm,71kg,Tottenham Hotspur,Brazil,98,95,95,89,66,93,29,73,31,75,63,16,94,67,86,95,99,98,48,32.8446464
+60,Rodrygo,Attacking Midfielder/Winger,-1,174cm,68kg,Real Madrid,Brazil,58,64,72,75,75,71,93,97,99,88,99,94,93,96,54,61,79,10,4,95.076608
+61,Bukayo Saka,Attacking Midfielder/Winger,-1,178cm,64kg,Arsenal,England,86,81,84,91,88,92,92,65,48,43,76,43,97,96,87,41,86,70,65,0
+62,Mohamed Salah,Attacking Midfielder/Winger,-1,175cm,71kg,Liverpool,Egypt,98,99,97,98,99,99,80,54,33,78,55,18,99,94,1,1,14,1,12,47.538304
+63,Jadon Sancho,Attacking Midfielder/Winger,-1,180cm,73kg,Chelsea,England,41,1,1,35,67,16,77,77,80,85,87,97,61,81,12,33,78,42,3,25.929984
+64,Dominik Szoboszlai,Attacking Midfielder/Winger,-1,186cm,73kg,Liverpool,Hungary,85,89,99,78,97,97,96,89,51,85,97,59,96,98,8,23,76,7,27,64.82496
+65,Leandro Trossard,Attacking Midfielder/Winger,-1,172cm,60kg,Arsenal,Belgium,99,95,86,15,21,81,25,34,36,54,46,30,82,56,62,60,80,38,24,30.251648
+66,Nico Williams,Attacking Midfielder/Winger,-1,180cm,67kg,Athletic Club,Spain,49,68,62,88,54,62,78,29,16,19,91,94,84,91,53,5,14,4,27,60.503296
+67,Florian Wirtz,Attacking Midfielder/Winger,-1,175cm,68kg,Leverkusen,Germany,92,84,83,97,86,89,99,99,89,99,92,84,89,84,33,52,77,3,29,0
+68,Nicolò Zaniolo,Attacking Midfielder/Winger,-1,190cm,83kg,Atalanta,Italy,53,74,87,1,15,47,21,4,4,30,52,39,91,31,82,1,73,95,82,17.286656
+69,Julián Álvarez,Forward,-1,173cm,69kg,Atlético Madrid,Argentina,53,55,81,90,91,74,96,98,98,91,83,52,55,66,67,6,81,32,2,77.789952
+70,Folarin Balogun,Forward,-1,179cm,73kg,Monaco,United States,49,75,84,83,74,79,83,34,60,40,66,32,94,98,37,39,27,7,10,25.929984
+71,Patrick Bamford,Forward,-1,188cm,71kg,Leeds United,England,76,89,81,34,29,82,20,48,67,39,43,45,89,37,83,29,5,33,29,3.4573312
+72,Christoph Baumgartner,Forward,-1,180cm,69kg,RB Leipzig,Austria,87,82,74,9,15,58,46,38,36,43,33,39,72,28,93,72,94,96,96,15.5579904
+73,Andrea Belotti,Forward,-1,181cm,72kg,Como,Italy,50,37,57,39,60,43,69,39,46,27,59,32,28,61,91,65,74,36,74,4.321664
+74,Ante Budimir,Forward,-1,190cm,74kg,Osasuna,Croatia,74,57,54,29,16,34,7,12,2,33,24,25,75,6,61,52,54,40,93,
+75,Dominic Calvert-Lewin,Forward,-1,189cm,63kg,Everton,England,14,70,62,46,57,67,33,29,4,26,58,28,56,36,40,56,38,94,95,19.0153216
+76,Edinson Cavani,Forward,-1,184cm,73kg,Boca Juniors,Uruguay,58,28,5,7,3,12,2,42,62,77,1,2,13,20,56,66,37,40,33,0.8643328
+77,Matheus Cunha,Forward,-1,183cm,76kg,Wolverhampton Wanderers,Brazil,64,29,60,88,55,31,79,89,86,89,96,98,42,46,84,91,82,68,12,38.894976
+78,Arnaut Danjuma,Forward,-1,187cm,73kg,Girona,Netherlands,71,76,77,1,25,55,1,1,8,1,25,13,49,37,45,54,29,1,26,11.2363264
+79,Ángel Di María,Forward,-1,180cm,69kg,Benfica,Argentina,52,61,98,95,99,97,99,98,15,95,80,82,83,99,15,10,65,3,2,2.5929984
+80,Kasper Dolberg,Forward,-1,186cm,82kg,Anderlecht,Denmark,67,88,51,47,16,76,30,31,75,34,55,40,50,63,34,42,58,83,34,0
+81,Youssef En-Nesyri,Forward,-1,192cm,77kg,Fenerbahçe,Morocco,78,41,34,27,3,21,1,1,18,4,12,11,14,1,32,75,14,70,68,17.286656
+82,João Félix,Forward,-1,180cm,63kg,Chelsea,Portugal,97,98,97,57,38,95,38,57,76,53,62,62,84,85,37,56,22,61,45,25.929984
+83,Evan Ferguson,Forward,-1,183cm,"
+    October 19, 2004
+    ",Brighton & Hove Albion,Republic of Ireland,2,1,2,2,2,1,2,31,84,3,20,5,1,9,90,70,52,36,22,43.21664
+84,Niclas Füllkrug,Forward,-1,188cm,82kg,West Ham United,Germany,43,65,35,87,61,65,50,63,28,64,20,4,39,14,8,18,61,72,84,12.964992
+85,Cody Gakpo,Forward,-1,187cm,78kg,Liverpool,Netherlands,76,86,85,84,91,90,94,91,88,94,79,89,84,89,94,96,75,20,43,47.538304
+86,Antoine Griezmann,Forward,-1,175cm,67kg,Atlético Madrid,France,68,29,38,77,88,56,89,99,82,95,67,42,18,70,82,88,96,61,13,21.60832
+87,Erling Haaland,Forward,-1,191cm,87kg,Manchester City,Norway,93,99,94,60,56,97,23,4,77,16,42,19,90,21,20,5,9,28,39,0
+88,Kai Havertz,Forward,-1,186cm,77kg,Arsenal,Germany,99,99,94,89,79,99,77,4,32,7,71,43,99,97,7,17,25,19,99,60.503296
+89,Hwang Hee-chan,Forward,-1,177cm,69kg,Wolverhampton Wanderers,Korea Republic,52,18,2,55,50,16,20,55,77,32,61,85,15,27,63,87,81,29,9,21.60832
+90,Rasmus Højlund,Forward,-1,192cm,"
+    February 4, 2003
+    ",Manchester United,Denmark,79,47,5,29,23,33,40,13,70,22,54,56,14,17,23,17,21,42,34,56.181632
+91,Gabriel Jesus,Forward,-1,177cm,72kg,Arsenal,Brazil,46,45,80,98,96,82,84,87,89,74,76,96,97,94,97,99,99,51,31,56.181632
+92,Raúl Jiménez,Forward,-1,188cm,79kg,Fulham,Mexico,87,55,63,2,16,32,13,70,52,51,20,42,30,56,80,76,38,52,73,0
+93,Joselu,Forward,-1,192cm,81kg,Al Gharrafa,Spain,94,98,96,19,29,93,8,36,63,13,18,8,79,27,19,67,29,54,72,4.321664
+94,Harry Kane,Forward,-1,188cm,73kg,Bayern Munich,England,98,97,92,89,79,96,65,45,53,89,32,44,57,18,31,34,35,24,36,86.43328
+95,Randal Kolo Muani,Forward,-1,187cm,73kg,Paris Saint-Germain,France,53,73,7,82,91,86,81,70,59,80,85,91,70,91,70,63,25,49,34,38.894976
+96,Robert Lewandowski,Forward,-1,185cm,78kg,Barcelona,Poland,80,75,68,79,79,83,47,36,41,66,50,40,64,39,27,58,22,54,57,12.964992
+97,Romelu Lukaku,Forward,-1,192cm,91kg,Napoli,Belgium,77,39,23,38,36,29,43,46,44,20,43,18,50,82,7,11,7,50,50,25.929984
+98,Lautaro Martínez,Forward,-1,174cm,72kg,Internazionale,Argentina,82,79,89,32,57,75,77,72,80,81,69,47,72,54,58,89,86,15,41,95.076608
+99,Kylian Mbappé,Forward,-1,178cm,73kg,Real Madrid,France,91,89,98,69,93,94,91,95,98,96,98,99,99,99,3,42,2,2,3,0
+100,Lionel Messi,Forward,-1,170cm,72kg,Inter Miami,Argentina,99,99,99,99,80,99,99,92,67,99,81,99,82,51,20,3,1,1,3,25.929984
+101,Álvaro Morata,Forward,-1,189cm,84kg,Milan,Spain,92,89,75,61,19,79,12,32,49,11,43,51,73,13,56,8,79,84,56,13.8293248
+102,Gerard Moreno,Forward,-1,177cm,74kg,Villarreal,Spain,28,21,49,93,93,62,95,98,78,99,72,90,62,89,85,74,71,68,32,8.643328
+103,Christopher Nkunku,Forward,-1,175cm,68kg,Chelsea,France,83,62,70,2,30,52,80,98,99,93,77,49,77,82,96,95,91,51,58,56.181632
+104,Victor Osimhen,Forward,-1,185cm,76kg,Galatasaray,Nigeria,73,81,86,54,68,80,56,5,30,18,60,54,89,77,9,50,7,74,52,86.43328
+105,Mikel Oyarzabal,Forward,-1,181cm,77kg,Real Sociedad,Spain,37,32,3,28,6,17,19,49,76,36,37,14,7,46,75,29,86,18,29,0
+106,Giacomo Raspadori,Forward,-1,172cm,66kg,Napoli,Italy,34,7,80,62,91,35,92,98,64,89,63,61,39,80,77,73,78,18,6,0
+107,Gianluca Scamacca,Forward,-1,195cm,86kg,Atalanta,Italy,95,71,86,95,84,82,82,73,25,68,51,50,66,96,72,46,34,46,43,30.251648
+108,Patrik Schick,Forward,-1,186cm,73kg,Leverkusen,Czech Republic,96,84,90,2,39,74,75,42,93,35,23,43,96,76,46,15,11,35,64,0
+109,Jamie Vardy,Forward,-1,178cm,76kg,Leicester City,England,98,99,59,32,55,97,32,34,81,18,18,37,81,49,17,26,18,36,33,0.8643328
+110,Timo Werner,Forward,-1,180cm,74kg,Tottenham Hotspur,Germany,64,98,92,76,70,96,33,66,46,63,99,47,98,96,21,15,85,27,7,14.6936576
+111,Jordi Alba,Full Back,-1,170cm,68kg,Inter Miami,Spain,98,93,67,98,97,97,86,99,84,95,16,38,90,98,12,7,18,14,1,2.160832
+112,Trent Alexander-Arnold,Full Back,-1,175cm,68kg,Liverpool,England,88,90,97,93,99,97,99,99,37,99,42,86,59,57,32,86,56,17,11,60.503296
+113,Alejandro Balde,Full Back,-1,175cm,68kg,Barcelona,Spain,20,16,26,31,53,32,47,64,93,38,98,92,95,96,7,6,13,3,30,34.573312
+114,João Cancelo,Full Back,-1,182cm,66kg,Al-Hilal,Portugal,87,75,92,74,89,88,87,87,80,86,95,99,93,90,82,87,59,41,53,21.60832
+115,Dani Carvajal,Full Back,-1,173cm,69kg,Real Madrid,Spain,95,73,59,53,59,67,36,74,89,24,14,19,74,80,48,53,74,61,70,10.3719936
+116,Matty Cash,Full Back,-1,185cm,76kg,Aston Villa,Poland,20,91,90,56,65,80,32,56,63,61,78,21,86,52,75,42,65,74,29,0
+117,Ben Chilwell,Full Back,-1,178cm,71kg,Chelsea,England,20,91,91,8,38,70,55,86,44,44,81,44,70,92,64,17,96,97,63,24.2013184
+118,Yan Couto,Full Back,-1,169cm,60kg,Dortmund,Brazil,56,75,89,96,84,85,60,63,56,60,99,98,96,97,40,4,2,5,1,21.60832
+119,Aaron Cresswell,Full Back,-1,170cm,68kg,West Ham United,England,86,9,1,8,28,14,51,82,78,80,10,1,3,6,1,13,4,28,83,0
+120,Marc Cucurella,Full Back,-1,175cm,68kg,Chelsea,Spain,20,62,17,51,17,27,23,83,95,19,30,8,46,33,89,69,90,64,71,25.929984
+121,Diogo Dalot,Full Back,-1,184cm,76kg,Manchester United,Portugal,59,55,64,44,41,46,54,56,66,37,31,74,49,31,67,67,62,77,59,30.251648
+122,Alphonso Davies,Full Back,-1,178cm,68kg,Bayern Munich,Canada,86,53,41,41,30,34,70,88,96,70,97,99,84,77,58,52,71,45,15,43.21664
+123,Giovanni Di Lorenzo,Full Back,-1,184cm,79kg,Napoli,Italy,59,88,84,65,77,84,91,94,85,98,62,40,97,85,36,27,57,14,66,0
+124,Federico Dimarco,Full Back,-1,175cm,74kg,Internazionale,Italy,98,95,98,75,99,98,96,67,48,49,64,5,95,95,13,5,15,11,4,43
+125,Emerson Palmieri,Full Back,-1,176cm,63kg,West Ham United,Italy,41,55,37,29,19,25,40,47,74,47,41,54,30,29,91,62,60,72,39,10
+126,Juan Foyth,Full Back,-1,190cm,77kg,Villarreal,Argentina,20,38,12,59,42,37,1,69,80,71,50,91,40,4,16,39,64,95,91,12.964992
+127,Raphaël Guerreiro,Full Back,-1,170cm,67kg,Bayern Munich,Portugal,97,98,93,62,79,93,91,94,93,96,67,64,94,84,19,63,1,1,1,10.3719936
+128,Malo Gusto,Full Back,-1,179cm,66kg,Chelsea,France,20,60,61,88,92,89,78,91,95,65,93,55,92,86,91,41,72,55,10,30.251648
+129,Theo Hernández,Full Back,-1,184cm,78kg,Milan,France,77,91,97,85,85,91,96,80,90,88,94,87,81,44,3,31,16,21,54,51.859968
+130,Nordi Mukiele,Full Back,-1,185cm,73kg,Leverkusen,France,20,98,77,8,1,60,3,86,86,59,20,66,63,15,9,93,97,89,99,8.643328
+131,Nacho,Full Back,-1,179cm,74kg,Al Qadisiyah,Spain,19,33,27,64,78,58,25,70,97,17,45,40,57,62,9,28,9,13,10,2.5
+132,Luca Pellegrini,Full Back,-1,184cm,72kg,Lazio,Italy,84,38,74,8,2,3,10,77,34,80,42,89,21,34,47,79,30,60,71,3
+133,Pedro Porro,Full Back,-1,176cm,68kg,Tottenham Hotspur,Spain,89,88,95,82,90,91,92,93,38,91,32,56,78,61,83,68,93,78,14,38.894976
+134,David Raum,Full Back,-1,180cm,74kg,RB Leipzig,Germany,82,34,32,95,98,94,93,90,23,68,66,35,61,93,54,61,85,68,37,17
+135,Sergi Roberto,Full Back,-1,185cm,69kg,Como,Spain,98,89,46,98,92,94,74,91,84,66,50,47,97,78,37,52,15,27,78,2.160832
+136,Andrew Robertson,Full Back,-1,178cm,63kg,Liverpool,Scotland,94,96,64,56,98,98,99,98,75,97,93,13,95,87,29,9,23,20,12,25.929984
+137,Julian Ryerson,Full Back,-1,183cm,83kg,Dortmund,Norway,92,77,65,17,61,69,20,61,88,23,63,72,58,73,69,8,75,25,17,17.286656
+138,Luke Shaw,Full Back,-1,185cm,74kg,Manchester United,England,20,8,23,56,5,1,50,74,67,60,10,44,30,12,2,26,58,80,73,27.6586496
+139,Borna Sosa,Full Back,-1,176cm,73kg,Torino,Croatia,20,23,23,85,39,27,6,22,58,10,40,7,1,33,74,78,9,66,83,6.482496
+140,Kieran Tierney,Full Back,-1,178cm,69kg,Arsenal,Scotland,20,14,10,74,19,11,9,86,40,91,22,36,17,22,87,45,93,95,73,10.3719936
+141,Takehiro Tomiyasu,Full Back,-1,185cm,78kg,Arsenal,Japan,90,95,90,85,28,74,25,55,77,90,28,11,89,14,20,79,17,50,90,30.251648
+142,Oleksandr Zinchenko,Full Back,27,175cm,60kg,Arsenal,Ukraine,59,34,68,53,68,59,88,97,97,99,59,20,48,15,78,75,23,10,85,32.8446464
+143,Luis Alberto,Midfielder,31,182cm,73kg,Al Duhail SC,Spain,81,94,96,94,93,96,97,84,24,95,95,76,82,91,4,7,75,6,9,9.5076608
+144,Rodrigo Bentancur,Midfielder,27,185cm,73kg,Tottenham Hotspur,Uruguay,59,94,88,52,22,69,66,91,61,79,62,71,92,69,60,90,57,53,70,30.251648
+145,Hakan Çalhanoğlu,Midfielder,30,176cm,73kg,Internazionale,Turkey,63,48,88,55,89,78,89,95,80,81,63,9,31,38,62,43,31,21,55,38.894976
+146,Casemiro,Midfielder,32,184cm,79kg,Manchester United,Brazil,63,87,91,55,55,75,38,81,36,39,7,33,83,34,98,34,99,98,83,17.286656
+147,Dani Ceballos,Midfielder,28,176cm,64kg,Real Madrid,Spain,72,34,43,92,89,75,93,94,88,87,84,81,86,76,42,2,54,11,3,5.1859968
+148,Mikkel Damsgaard,Midfielder,24,176cm,68kg,Brentford,Denmark,11,72,43,86,84,81,72,44,3,84,84,84,86,77,93,80,99,25,69,8.643328
+149,Kevin De Bruyne,Midfielder,33,181cm,69kg,Manchester City,Belgium,99,99,99,99,99,99,99,93,16,96,97,68,99,99,2,1,1,1,18,43.21664
+150,Rodrigo De Paul,Midfielder,30,178cm,69kg,Atlético Madrid,Argentina,82,50,51,59,91,82,86,85,48,94,96,86,63,69,7,9,77,19,3,25.929984
+151,Wataru Endo,Midfielder,31,178cm,74kg,Liverpool,Japan,59,18,21,9,59,37,62,90,84,62,18,43,19,26,71,65,55,64,86,11.2363264
+152,Enzo Fernández,Midfielder,23,178cm,78kg,Chelsea,Argentina,61,94,84,53,64,85,64,91,55,82,65,65,81,54,67,30,52,43,48,64.82496
+153,Conor Gallagher,Midfielder,24,182cm,73kg,Atlético Madrid,England,86,79,74,90,81,82,75,65,85,48,74,84,88,80,70,64,77,33,37,43.21664
+154,Bruno Guimarães,Midfielder,26,182cm,77kg,Newcastle United,Brazil,90,78,56,91,84,83,90,75,49,87,65,97,76,54,77,62,81,21,20,73.468288
+155,Pierre Højbjerg,Midfielder,29,185cm,81kg,Marseille,Denmark,11,29,73,9,47,37,69,98,85,97,36,49,45,47,69,90,72,77,26,15
+156,Frenkie de Jong,Midfielder,27,180cm,68kg,Barcelona,Netherlands,45,2,1,9,60,27,59,94,98,92,92,45,14,45,80,47,29,65,55,60.503296
+157,Daichi Kamada,Midfielder,28,180cm,72kg,Crystal Palace,Japan,41,60,82,58,80,73,70,59,78,66,86,62,97,89,87,52,63,5,1,15.5579904
+158,Joshua Kimmich,Midfielder,29,176cm,69kg,Bayern Munich,Germany,48,32,34,83,96,86,93,97,69,95,79,29,41,87,40,20,42,52,10,43.21664
+159,Douglas Luiz,Midfielder,26,178cm,66kg,Juventus,Brazil,88,77,72,79,85,84,81,82,64,53,73,66,46,40,39,30,26,7,46,60.503296
+160,Matheus Nunes,Midfielder,26,183cm,78kg,Manchester City,Portugal,11,96,88,99,95,98,92,82,75,70,99,94,99,99,4,2,21,22,37,43.21664
+161,João Palhinha,Midfielder,29,190cm,77kg,Bayern Munich,Portugal,70,73,79,22,7,42,3,40,46,12,2,25,58,1,99,91,94,77,76,47.538304
+162,Pedri,Midfielder,21,174cm,63kg,Barcelona,Spain,92,83,33,94,94,94,94,88,72,95,88,66,80,91,56,46,89,31,1,69.146624
+163,Marco Reus,Midfielder,35,180cm,71kg,LA Galaxy,Germany,75,84,54,95,65,85,49,56,88,37,7,1,51,11,92,24,62,96,62,4.321664
+164,Declan Rice,Midfielder,25,185cm,77kg,Arsenal,England,83,52,73,88,72,65,63,77,82,91,83,70,73,46,52,71,34,66,65,103.719936
+165,Rodri,Midfielder,28,190cm,78kg,Manchester City,Spain,92,74,90,97,72,74,98,99,98,99,96,88,91,49,49,39,15,39,79,110
+166,Bernardo Silva,Midfielder,30,173cm,64kg,Manchester City,Portugal,96,93,84,99,98,98,95,85,76,77,99,83,99,99,31,14,48,11,1,60.503296
+167,Youri Tielemans,Midfielder,27,177cm,72kg,Aston Villa,Belgium,68,52,32,99,87,75,69,58,49,81,54,70,61,58,75,46,59,10,36,21.5
+168,James Ward-Prowse,Midfielder,29,173cm,66kg,Nottingham Forest,England,69,68,49,87,97,93,84,60,53,42,14,12,30,52,9,54,17,67,40,25.929984
+169,Julian Weigl,Midfielder,29,187cm,71kg,Mönchengladbach,Germany,11,17,18,46,38,21,27,51,87,19,8,35,5,1,58,94,68,87,45,5
+170,Martin Ødegaard,Midfielder,25,179cm,68kg,Arsenal,Norway,89,92,93,97,98,98,99,65,59,98,87,85,99,95,12,11,2,1,1,95.076608
+171,Marc Guéhi,Center Back,24,182cm,82kg,Crystal Palace,England,19,26,3,79,61,39,64,55,52,34,38,79,22,55,29,16,14,67,24,32.7
+172,Pau Cubarsí,Center Back,17,181cm,"
+    January 22, 2007
+    ",Barcelona,Spain,19,4,16,74,80,38,83,92,90,73,27,37,16,17,40,4,18,44,39,25.929984
+173,Radu Drăgușin,Center Back,22,191cm,79kg,Tottenham Hotspur,Romania,85,69,89,79,74,70,20,29,41,5,34,14,91,83,9,69,12,42,87,21.60832
+174,Riccardo Calafiori,Center Back,22,183cm,74kg,Arsenal,Italy,78,66,70,99,82,75,98,80,81,56,82,94,51,89,72,95,74,12,65,38.894976
+175,Jean-Clair Todibo,Center Back,24,190cm,81kg,West Ham United,France,19,18,17,68,82,49,92,95,79,87,88,92,18,67,85,78,30,30,15,30.251648
+176,Niklas Süle,Center Back,29,195cm,92kg,Dortmund,Germany,63,31,31,28,43,31,78,91,94,74,85,63,37,82,65,68,30,42,8,12.964992
+177,Pau Torres,Center Back,27,191cm,84kg,Aston Villa,Spain,77,42,37,28,44,34,56,71,59,83,95,96,46,78,28,5,20,8,1,35
+180,Arda Güler,Attacking Midfielder/Winger,19,176cm,60kg,Real Madrid,Turkey,99,96,99,1,25,85,91,91,89,69,49,82,73,45,79,38,4,89,1,38.894976
+181,Jeremy Doku,Attacking Midfielder/Winger,22,171cm,59kg,Manchester City,Belgium,37,38,90,93,86,68,97,84,90,38,99,99,99,99,90,22,47,10,6,56.181632
+182,Jamal Musiala,Attacking Midfielder/Winger,21,184cm,72kg,Bayern Munich,Germany,91,92,76,64,79,92,82,61,90,80,82,99,81,49,81,95,70,11,18,85
+183,Michael Olise,Attacking Midfielder/Winger,22,178cm,68kg,Bayern Munich,France,99,84,97,91,99,96,95,85,44,88,77,84,74,73,64,85,92,66,54,47.538304
+184,Dominic Solanke,Forward,26,187cm,74kg,Tottenham Hotspur,England,65,73,67,25,25,57,25,6,69,44,57,78,79,29,55,46,60,80,73,34.573312
+185,Kai Havertz,Midfielder,25,186cm,77kg,Arsenal,Germany,99,99,94,89,79,99,77,4,32,7,71,43,99,97,7,17,25,19,99,60.503296
+186,Cole Palmer,Attacking Midfielder/Winger,22,189cm,73kg,Chelsea,England,92,93,94,99,99,98,94,78,68,93,63,55,54,30,9,85,19,41,1,69.146624
+187,Rico Lewis,Midfielder,19,170cm,64kg,Manchester City,England,74,76,24,93,72,75,47,79,95,30,89,48,97,95,13,10,31,44,1,32.8446464
